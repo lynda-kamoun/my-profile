@@ -1,0 +1,51 @@
+body { 
+background-color : rgb(216,185,255)
+color : rgb(30,30,30)
+font-family: Courier;
+} 
+
+h1,h2 { 
+	color: mediumpurple;
+	font-family: Helvetica;
+	font-weight: 100;
+	letter-spacing: 5px;
+	font-size: 60px;
+} 
+
+a { 
+	text-decoration: none;
+	color: rebeccapurple;
+} 
+a:hover {
+	color: blueviolet;
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}	
+
+.card-white {
+	background-color : rgb(231,209,255);
+	padding : 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 1) ;
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+
+}
+
+.btn-purple {
+	background-color: rgb(216,185,255);
+	color: white; 
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+.btn-purple: hover {
+	background-color: black;
+	color: white;
+}	
+
+
+
+
